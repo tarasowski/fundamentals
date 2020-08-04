@@ -12,6 +12,8 @@ My search for the ultimate truth of life. Core concepts.
 * [ ] Determinism (functions, people, systems)
 * [ ] Repetition (in any sense from learning to repetitive work -> the effect of repetition on our lives?)
 * [ ] Cyclicity (awake -> sleep -> awake -> sleep || birth -> death -> birth -> death)
+* [ ] Concurrency, Parallelism, Asynchronous (map our behavior to machines and vice versa)
+* [ ] Encoding, Decoding (encoding thoughts to paper and decoding paper to thoughts)
 
 
 # Todo
