@@ -18,6 +18,7 @@ My search for the ultimate truth of life. Core concepts.
 * [ ] Entropy (in organizations, personal development, software systems -> everything becomes unorganized, high level of disorder)
 * [ ] Experience (what role plays experieince in learning, doing and understanding stuff?)
 * [ ] Presentations (how to speak)
+* [ ] First-Touchpoint Phenomena (how to dress)
 
 
 # Todo
