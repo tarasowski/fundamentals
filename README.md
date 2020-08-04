@@ -17,6 +17,7 @@ My search for the ultimate truth of life. Core concepts.
 * [ ] Storytelling, Narratives (the importance in our lives)
 * [ ] Entropy (in organizations, personal development, software systems -> everything becomes unorganized, high level of disorder)
 * [ ] Experience (what role plays experieince in learning, doing and understanding stuff?)
+* [ ] Presentations (how to speak)
 
 
 # Todo
@@ -25,3 +26,4 @@ My search for the ultimate truth of life. Core concepts.
 # Resources
 * http://people.cs.vt.edu/~kafura/ComputationalThinking/Class-Notes/abstraction.html
 * https://www.amazon.com/Morphology-Folktale-V-Propp/dp/0292783760
+* https://www.youtube.com/watch?v=Unzc731iCUY
