@@ -1,5 +1,5 @@
 # Fundamentals
-My search for the ultimate truth of life. Core concepts.
+My search for the ultimate truth of life. Core concepts we can apply to our daily lives.
 
 * [ ] Abstractions (how to think in abstractions to become more productive -> thinking in black boxes?)
 * [ ] Interfaces (the world is full of interfaces, chips have interfaces, teams have interfaces, political parties have interfaces)
@@ -18,7 +18,8 @@ My search for the ultimate truth of life. Core concepts.
 * [ ] Entropy (in organizations, personal development, software systems -> everything becomes unorganized, high level of disorder)
 * [ ] Experience (what role plays experieince in learning, doing and understanding stuff?)
 * [ ] Presentations (how to speak)
-* [ ] First-Touchpoint Phenomena (how to dress)
+* [ ] First-touchpoint Phenomena (how to dress)
+* [ ] Pareto (the unequal distribution of life - application to business, systems, life)
 
 
 # Todo
