@@ -23,6 +23,8 @@ My search for the ultimate truth of life. Core concepts we can apply to our dail
 
 
 # Todo
+* [ ] Find the proper name for a phenomena where in a company there are people with high-energy and want to do things all the time but don't know what to do it they are taking the wrong direction. Пример Альтгаузен.
+* [ ] Find a name for a phenomena where people inside of the company / group optimize everything to their personal goals. How to make these people productive, you need to build a structure that aligns to their personal goals and the compan itself. Ravikant was talking about (somehting with agent)
 * [ ] Work out each core concept for day to day application
 
 # Resources
