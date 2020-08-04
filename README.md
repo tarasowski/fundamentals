@@ -14,6 +14,7 @@ My search for the ultimate truth of life. Core concepts.
 * [ ] Cyclicity (awake -> sleep -> awake -> sleep || birth -> death -> birth -> death)
 * [ ] Concurrency, Parallelism, Asynchronous (map our behavior to machines and vice versa)
 * [ ] Encoding, Decoding (encoding thoughts to paper and decoding paper to thoughts)
+* [ ] Storytelling, Narratives (the importance in our lives)
 
 
 # Todo
@@ -21,3 +22,4 @@ My search for the ultimate truth of life. Core concepts.
 
 # Resources
 * http://people.cs.vt.edu/~kafura/ComputationalThinking/Class-Notes/abstraction.html
+* https://www.amazon.com/Morphology-Folktale-V-Propp/dp/0292783760
