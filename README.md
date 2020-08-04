@@ -15,7 +15,7 @@ My search for the ultimate truth of life. Core concepts.
 * [ ] Concurrency, Parallelism, Asynchronous (map our behavior to machines and vice versa)
 * [ ] Encoding, Decoding (encoding thoughts to paper and decoding paper to thoughts)
 * [ ] Storytelling, Narratives (the importance in our lives)
-* [ ] Entropy (in organizations, personal development, software systems)
+* [ ] Entropy (in organizations, personal development, software systems -> everything becomes unorganized, high level of disorder)
 
 
 # Todo
