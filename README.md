@@ -16,7 +16,7 @@ My search for the ultimate truth of life. Core concepts we can apply to our dail
 * [ ] Encoding, Decoding (encoding thoughts to paper and decoding paper to thoughts)
 * [ ] Storytelling, Narratives (the importance in our lives)
 * [ ] Entropy (in organizations, personal development, software systems -> everything becomes unorganized, high level of disorder)
-* [ ] Experience (what role plays experieince in learning, doing and understanding stuff?)
+* [ ] Experience (what role plays experieince in learning, doing and understanding stuff? -> the more you do the faster you learn e.g. getting to know many different technologies in computer science is better than specialization on only one technology -> my hypothesis)
 * [ ] Presentations (how to speak)
 * [ ] First-touchpoint Phenomena (how to dress)
 * [ ] Pareto (the unequal distribution of life - application to business, systems, life)
