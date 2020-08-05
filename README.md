@@ -28,6 +28,7 @@ My search for the ultimate truth of life. Core concepts we can apply to our dail
 * [ ] Work out each core concept for day to day application
 
 # Resources
+* https://jnd.org/simplicity_is_not_the_answer/
 * http://people.cs.vt.edu/~kafura/ComputationalThinking/Class-Notes/abstraction.html
 * https://www.amazon.com/Morphology-Folktale-V-Propp/dp/0292783760
 * https://www.youtube.com/watch?v=Unzc731iCUY
