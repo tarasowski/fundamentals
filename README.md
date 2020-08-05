@@ -28,6 +28,7 @@ My search for the ultimate truth of life. Core concepts we can apply to our dail
 * [ ] Work out each core concept for day to day application
 
 # Resources
+* https://hbr.org/2011/09/learning-to-live-with-complexity (simple systems are light switchers - two states and predictable outcome -> determenism)
 * Simplicity is the oppositive of complexity - https://en.wikipedia.org/wiki/Complexity
 * https://jnd.org/simplicity_is_not_the_answer/
 * http://people.cs.vt.edu/~kafura/ComputationalThinking/Class-Notes/abstraction.html
