@@ -1,12 +1,12 @@
 # Fundamentals
 My search for the ultimate truth of life. Core concepts we can apply to our daily lives.
 
+1. [ ] Simplicity (everyone speaks about but no one defines it -> needs to be defined vs. complexity)
 * [ ] Abstractions (how to think in abstractions to become more productive -> thinking in black boxes?)
 * [ ] Interfaces (the world is full of interfaces, chips have interfaces, teams have interfaces, political parties have interfaces)
 * [ ] Composition / Decomposition (Descartes Method)
 * [ ] Systems (a business is a system, but how to build a system)
 * [ ] Dichtonomy of Control (Echiridion of Epictetus)
-* [ ] Simplicity (everyone speaks about but no one defines it -> needs to be defined)
 * [ ] Leverage (Archimedes application to business, life)
 * [ ] First Principles Thinking (Descartes Method - Aristotles)
 * [ ] Determinism (functions, people, systems)
