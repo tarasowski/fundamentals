@@ -2,6 +2,7 @@
 My search for the ultimate truth of life. Core concepts we can apply to our daily lives.
 
 * [ ] **Simplicity** (everyone speaks about but no one defines it -> needs to be defined vs. complexity)
+* [ ] Divergence <> Convergence (math, design thinking, group dynamics, company culture)
 * [ ] Abstractions (how to think in abstractions to become more productive -> thinking in black boxes?)
 * [ ] Interfaces (the world is full of interfaces, chips have interfaces, teams have interfaces, political parties have interfaces)
 * [ ] Composition / Decomposition (Descartes Method)
