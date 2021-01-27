@@ -5,6 +5,7 @@ My search for the ultimate truth of life. Core concepts we can apply to our dail
   + Essential complexity vs. Accidental Complexity [link](https://www.simplethread.com/why-does-it-take-so-long-to-build-software/)
   + https://en.wikipedia.org/wiki/No_Silver_Bullet
   + https://m.signalvnoise.com/conceptual-compression-means-beginners-dont-need-to-know-sql-hallelujah/
+  + Fighting complexitiy: modularity / abstractions
 * [ ] Divergence <> Convergence (math, design thinking, group dynamics, company culture)
 * [ ] Abstractions (how to think in abstractions to become more productive -> thinking in black boxes?)
 * [ ] Interfaces (the world is full of interfaces, chips have interfaces, teams have interfaces, political parties have interfaces)
