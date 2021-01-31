@@ -1,10 +1,11 @@
 # Fundamentals
 My search for the ultimate truth of life. Core concepts we can apply to our daily lives.
 
-* [ ] **Luck** -
+* [ ] **Luck** 
   + https://www.codusoperandi.com/posts/increasing-your-luck-surface-area ( L = D * T, where L is luck, D is doing and T is telling. )
   + https://github.com/tarasowski/philosophy/blob/master/2-summaries/how-to-get-rich.md (4th kind of luck -> deterministic)
 * [ ] **Simplicity** (everyone speaks about but no one defines it -> needs to be defined vs. complexity)
+  + Modulariy / Abstraction -> to fight complexity (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/week-1/MIT6_033S18lec1.pdf)
   + Essential complexity vs. Accidental Complexity [link](https://www.simplethread.com/why-does-it-take-so-long-to-build-software/)
   + https://en.wikipedia.org/wiki/No_Silver_Bullet
   + https://m.signalvnoise.com/conceptual-compression-means-beginners-dont-need-to-know-sql-hallelujah/
