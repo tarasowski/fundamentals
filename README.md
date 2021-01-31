@@ -1,6 +1,9 @@
 # Fundamentals
 My search for the ultimate truth of life. Core concepts we can apply to our daily lives.
 
+* [ ] **Luck** -
+  + https://www.codusoperandi.com/posts/increasing-your-luck-surface-area ( L = D * T, where L is luck, D is doing and T is telling. )
+  + https://github.com/tarasowski/philosophy/blob/master/2-summaries/how-to-get-rich.md
 * [ ] **Simplicity** (everyone speaks about but no one defines it -> needs to be defined vs. complexity)
   + Essential complexity vs. Accidental Complexity [link](https://www.simplethread.com/why-does-it-take-so-long-to-build-software/)
   + https://en.wikipedia.org/wiki/No_Silver_Bullet
