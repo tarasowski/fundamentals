@@ -1,5 +1,5 @@
 # Fundamentals
-My search for the ultimate truth of life. Core concepts we can apply to our daily lives.
+FYI: My notes & reminders (full of typos). My search for the ultimate truth of life. Core concepts we can apply to our daily lives.
 
 * [ ] **Luck** 
   + https://www.codusoperandi.com/posts/increasing-your-luck-surface-area ( L = D * T, where L is luck, D is doing and T is telling. )
